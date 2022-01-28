@@ -1,0 +1,93 @@
+body{
+    margin-left: 50%;
+    width: 500px;
+}
+.knioka{
+    width: 500px;;
+}
+#div{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.imgs{
+    position: relative;
+    left: 340px;
+    bottom: 210px;
+    width: 150px;
+    height: 200px;
+}
+.dark{
+    position: relative;
+    left: 340px;
+    bottom: 415px;
+    width: 150px;
+    height: 200px;
+    background-color: black;
+}
+.block{
+    margin-bottom: 20px;
+    display: flex;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: none;
+}
+.newtext{
+    margin-bottom: 20px;
+    display: flex;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: none;
+    background-color: wheat;
+
+}
+.left{
+    margin-left: 10px;
+    margin-top: 50px;
+}
+.left_2{
+    width: 500px;
+    height: 200px;
+    margin-left: 10px;
+    margin-top: 50px;
+    margin: auto;
+    display: none;
+}
+.backgr{
+    background-color: wheat;
+}
+p{
+    color: none;
+}
+.darl{
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+    width: 120px;
+    height: 190px;
+    background-color: black;
+}
+.img{
+    position: relative;
+    left: 300px;
+    bottom: 200px;
+    width: 120px;
+    height: 190px;
+    background: url(./img/0daa4438-56f1-4a59-9771-c6925c5cd67a.jpg) no-repeat;
+}
+.newtext{
+    right: 30px;
+    width: 430px;
+    height:389px;
+    position: relative;
+    bottom: 410px;                                 
+}
+.textForResume{
+    margin: auto;
+    display: none;
+}
